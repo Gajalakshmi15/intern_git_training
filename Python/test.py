@@ -21,6 +21,12 @@ def division(num1,num2):
     return num1%num2
 print(division(3,2))
 # Hitesh - Square of a number
+def square(num):
+    return n**2
+
+n=int(input("enter the number"))
+print(square(n))
+
 # Kumarsing - Cube of a number
 # Naveenkumar - Square root of a number
 num1=int(input("Enter the number 1 : "))
