@@ -26,6 +26,13 @@ n=int(input("enter the number"))
 print(square(n))
 
 # Kumarsing - Cube of a number
+
+inp=int(input("enter the number:"))
+def cubefunc(num):
+    return num**3
+print(cubefunc(inp))
+
+
 # Naveenkumar - Square root of a number
 num1=int(input("Enter the number 1 : "))
 num2=int(input("Enter the number 2 : "))
