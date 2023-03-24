@@ -18,6 +18,11 @@ print(multiply(2,3))
 
 # Rajakeerthana - Division
 
+
+def division(num1,num2):
+    return (num1/num2)
+
+
 # Hitesh - Square of a number
 def square(num):
     return n**2
@@ -37,3 +42,5 @@ print(cubefunc(inp))
 num1=int(input("Enter the number 1 : "))
 num2=int(input("Enter the number 2 : "))
 print("Subtraction of",num1,"and",num2, "is :", sub(num1,num2))
+
+print("Division of two numbers is: ",division(num1,num2))
