@@ -1,4 +1,11 @@
 # Chidambaram-Add function
+def add(a, b):
+    return a+b
+
+
+x = int(input("enter a number="))
+y = int(input("enter a number="))
+print(f"addition of {x} and {y} is {add(x, y)}")
 # Vivekanand -Sub Function
 def sub(num1,num2):
     return num1-num2
