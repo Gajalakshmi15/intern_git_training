@@ -17,6 +17,9 @@ def multiply(num1,num2):
 print(multiply(2,3))
 
 # Rajakeerthana - Division
+def division(num1,num2):
+    return num1%num2
+print(division(3,2))
 # Hitesh - Square of a number
 # Kumarsing - Cube of a number
 # Naveenkumar - Square root of a number
