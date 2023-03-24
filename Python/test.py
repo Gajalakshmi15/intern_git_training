@@ -20,6 +20,7 @@ print(multiply(2,3))
 def division(num1,num2):
     return num1%num2
 print(division(3,2))
+
 # Hitesh - Square of a number
 def square(num):
     return n**2
